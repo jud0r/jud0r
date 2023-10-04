@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jud0r from Brazil 
-- 👀 I’m interested in learning about .NET technologies
-- 🌱 I’m currently working and learning C# and Entity Framework 
+- 👋 Hi, I’m Thiago da Silva from Brazil
+- 👀 I’m interested in learning about .NET Core technologies
+- 🌱 I’m currently working with and learning about C#, Entity Framework, Dapper  
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 You can reach me by e-mail at thiago.silva@outlook.com
 
